@@ -1,3 +1,6 @@
+/// проверка редактирования
+
+
 #include "AC_AttitudeControl.h"
 #include <AP_HAL/AP_HAL.h>
 #include <AP_Vehicle/AP_Vehicle.h>
